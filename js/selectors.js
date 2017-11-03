@@ -2,4 +2,4 @@ function paragraphSelector() {
   $('p');
 }
 
-paragraphSelector();
+return paragraphSelector();
