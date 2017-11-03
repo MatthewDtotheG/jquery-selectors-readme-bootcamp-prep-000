@@ -1,5 +1,6 @@
 function paragraphSelector() {
   $('p');
+  
 }
 
 paragraphSelector();
