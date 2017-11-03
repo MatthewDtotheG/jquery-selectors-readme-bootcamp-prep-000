@@ -1,10 +1,8 @@
 // declare your functions here...
-function paragraphSelector() {
-  $('p');
-}
 
 $(document).ready(function paragraphSelector() {
   // code to be executed goes here
+  $('p');
 });
 
 function lastImageSelector() {
